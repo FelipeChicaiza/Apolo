@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-
+![Video Walkthrough](assets/Final.gif)
 
 ## License
 
